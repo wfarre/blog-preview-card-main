@@ -91,7 +91,9 @@ main{
     }
 }
 
+
 .tag{
+    width: fit-content;
     padding: 4px 12px;
     background-color: var(--color-primary);
     color: var(--black);
